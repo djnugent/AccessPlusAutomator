@@ -1,0 +1,2 @@
+DISPLAY=:0
+11,30 * * * * /usr/bin/python /home/dannuge/Python/AccessPlusAutomator/APlusAutomator.py >> /home/dannuge/Python/AccessPlusAutomator/log.txt
